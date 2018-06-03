@@ -1,6 +1,6 @@
 import numpy as np
 
-RUNS = 10
+RUNS = 20
 OUTPUTS = 10
 
 def get_measures(csv_array, filename):
@@ -40,13 +40,13 @@ def calc_rate(list):
 def pre_process():
     in_format = 'data/run.{0}/out.{1}.csv'
     out_format = 'data/run.{0}/out.{1}.npz'
-    for i in range(1, RUNS):
-        for j in (1, OUTPUTS):
+    for i in range(1, RUNS + 1):
+        for j in range(1, OUTPUTS + 1):
             current_file = in_format.format(i, j)
             output = out_format.format(i, j)
             file = np.genfromtxt(current_file, delimiter=';')
             get_measures(file, output)
 
-#pre_process()
-file1=np.genfromtxt('data/run.1/out.1.csv', delimiter=';')
-get_measures(file1, 'data/run.1/out.1.youtube.com/1.youtube.npz' )
+pre_process()
+#file1=np.genfromtxt('data/run.1/out.1.csv', delimiter=';')
+#get_measures(file1, 'data/run.1/out.1.youtube.com/1.youtube.npz' )

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7399ea3e-d8ae-463e-a204-0824a92a2582" name="Default" comment="" />
+    <list default="true" id="7399ea3e-d8ae-463e-a204-0824a92a2582" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,15 +12,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/brust_buety$main.coverage" NAME="main Coverage Results" MODIFIED="1528006414704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/brust_buety$main.coverage" NAME="main Coverage Results" MODIFIED="1528009926425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            <state relative-caret-position="297">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -36,6 +38,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -58,6 +63,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -80,6 +86,96 @@
               <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
               <item name="run.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="brust_buety" type="b2602c69:ProjectViewProjectNode" />
+              <item name="brust_buety" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="run.17" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,9 +215,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -152,16 +248,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3985849" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32976654" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3326389" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3985849" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32900944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3326389" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -205,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        <state relative-caret-position="297">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
         </state>
       </provider>
     </entry>
